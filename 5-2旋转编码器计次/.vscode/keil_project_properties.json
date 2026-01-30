@@ -1,0 +1,24 @@
+{
+    "workspace": {
+        "projects": [
+            {
+                "path": "e:\\STM32\\program\\5-2旋转编码器计次\\stdproject.uvprojx",
+                "active": true,
+                "closed": false,
+                "activeTarget": "Target 1"
+            },
+            {
+                "path": "e:\\STM32\\program\\5-2旋转编码器计次\\Oled\\stdproject.uvprojx",
+                "active": false,
+                "closed": true,
+                "activeTarget": ""
+            },
+            {
+                "path": "e:\\STM32\\program\\5-2旋转编码器计次\\Oled\\stdproject\\stdproject.uvprojx",
+                "active": false,
+                "closed": true,
+                "activeTarget": ""
+            }
+        ]
+    }
+}
