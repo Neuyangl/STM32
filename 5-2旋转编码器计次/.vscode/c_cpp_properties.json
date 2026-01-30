@@ -11,8 +11,6 @@
                 "e:\\STM32\\program\\5-2旋转编码器计次\\Hardware",
                 "e:\\STM32\\program\\5-2旋转编码器计次\\System",
                 "e:\\STM32\\program\\5-2旋转编码器计次\\USER",
-                "D:\\Keil_v5\\ARM\\ARMCC\\include",
-                "D:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
                 "${default}"
             ],
             "defines": [
