@@ -11,6 +11,8 @@
                 "e:\\STM32\\program\\6-7 PWMI\\Hardware",
                 "e:\\STM32\\program\\6-7 PWMI\\System",
                 "e:\\STM32\\program\\6-7 PWMI\\USER",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include",
+                "D:\\Keil_v5\\ARM\\ARMCC\\include\\rw",
                 "${default}"
             ],
             "defines": [

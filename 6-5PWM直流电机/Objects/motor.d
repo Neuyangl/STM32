@@ -1,4 +1,4 @@
-.\objects\motor.o: Hardware\Motor.c
+.\objects\motor.o: Hardware/Motor.c
 .\objects\motor.o: .\CMSIS\DeviceSupport\stm32f10x.h
 .\objects\motor.o: .\CMSIS\CoreSupport\core_cm3.h
 .\objects\motor.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
@@ -28,4 +28,4 @@
 .\objects\motor.o: .\StdPeriph_Driver\inc\stm32f10x_usart.h
 .\objects\motor.o: .\StdPeriph_Driver\inc\stm32f10x_wwdg.h
 .\objects\motor.o: .\StdPeriph_Driver\inc\misc.h
-.\objects\motor.o: Hardware\PWM.h
+.\objects\motor.o: Hardware/PWM.h
